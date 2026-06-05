@@ -41,16 +41,16 @@ This project uses the Lending Club Loan Dataset from Kaggle to analyze borrower 
 
 ## Visualizations
 ### Loan Status Distribution
-<img width="825" height="584" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/f5440973-7e08-461f-b470-629fe602299b" />
+<img width="877" height="579" alt="Screenshot (510)" src="https://github.com/user-attachments/assets/d1196b77-b8d7-4921-983d-7b48d6a33f8a" />
 
 ### Annual Income Distribution
-<img width="828" height="582" alt="Screenshot (428)" src="https://github.com/user-attachments/assets/ded71960-d568-4211-b2f8-cadd3bff0fc7" />
+<img width="872" height="585" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/2020e446-4e01-4c33-acd0-01233ffcd9ad" />
 
 ### Loan Amount vs Interest Rate
-<img width="810" height="555" alt="Screenshot (429)" src="https://github.com/user-attachments/assets/c2289964-7a03-410c-b2c2-c484ced785f2" />
+<img width="884" height="554" alt="Screenshot (508)" src="https://github.com/user-attachments/assets/07b1219a-0da5-4340-bf30-71df4ce795c6" />
 
 ### Correlation Heatmap
-<img width="756" height="534" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/80ed5753-350f-40ff-a209-5aec07485135" />
+<img width="759" height="535" alt="Screenshot (509)" src="https://github.com/user-attachments/assets/50512e86-d4ff-48da-a4cc-abf5d921e0b4" />
 
 ## Conclusion
 
